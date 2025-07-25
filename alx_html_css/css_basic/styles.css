@@ -35,3 +35,36 @@ header, footer {
   padding: 1em;
   text-align: center;
 }
+body {
+  background-color: #fefefe;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #004080;
+  color: white;
+  padding: 1em;
+}
+
+.logo {
+  font-size: 2em;
+  margin-right: 1em;
+}
+
+article {
+  background-color: #ffffff;
+  border-right: 1px solid #ccc;
+  padding: 1em;
+}
+
+aside {
+  background-color: #f4f4f4;
+  padding: 1em;
+}
+
+footer {
+  background-color: #004080;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
